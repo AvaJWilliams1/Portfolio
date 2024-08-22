@@ -322,7 +322,6 @@ section {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    max-width: 600px;
   }
   
   .article-container {
